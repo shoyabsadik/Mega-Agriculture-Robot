@@ -1,7 +1,7 @@
 # 👨‍💻 Author
 M. Shoyab Sadik  
-[LinkedIn](https://www.linkedin.com/in/shoyab-sadik/)  
-[Website](https://shoyab-sadik.github.io/)  
+[LinkedIn](https://www.linkedin.com/in/shoyabsadik/)  
+[Website](https://shoyabsadik.github.io/)  
 [WhatsApp](https://wa.me/8801575317604)  
 Pico Robotics 🚀  
 
@@ -70,7 +70,7 @@ A smart agriculture robot developed using Arduino for automation in farming task
 
 ## 🛒 Shopping List (Pico Robotics)
 
-🔗 **Order from:** https://picorobotics.shop/  
+🔗 **Order from:** https://picorobotics.bdsite.net/  
 📱 **WhatsApp Order:** https://wa.me/8801977662117  
 
 
